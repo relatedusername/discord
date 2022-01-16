@@ -1,4 +1,4 @@
-# discord
+# nice discord icons
 
 <a href="https://discord.gg/jdnUcb9"><img alt="Discord" src="https://img.shields.io/discord/676402832106192917?style=plastic"></a>
 
